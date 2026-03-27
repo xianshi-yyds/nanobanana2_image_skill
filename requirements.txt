@@ -1,0 +1,5 @@
+# nanobanana Image Generation Skill 依赖
+# 安装: pip install -r requirements.txt
+
+requests>=2.28.0       # 可选，脚本已内置 urllib 零依赖回退
+python-dotenv>=1.0.0   # 加载 .env 文件中的 API Key

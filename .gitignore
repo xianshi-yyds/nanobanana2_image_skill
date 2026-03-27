@@ -1,0 +1,11 @@
+# 环境变量（含 API Key，禁止提交）
+.env
+
+# 生成的图片输出目录
+output/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
